@@ -1,6 +1,6 @@
 # CATCH JERRY :
 ---
-## Describtion:
+## Description:
 > Its a puzzle game with almost 25 images are provided and you have to solve the puzzle with minimum number of turns . Turns will be counted below . Swapping of the tiles are allowed . 
 > So! are you up for the challenge to catch Jerry helping poor Tom .
 > Hint is also right in front of your eyes just need to look carefully . **It's responsive**.
@@ -33,4 +33,9 @@ Please Note :
   
   
 https://ayushj16.github.io/TOM-JERRY-PUZZLE-GAME/
+
+https://tom-jerry-puzzle-game.vercel.app/
+
+https://tom-jerry-puzzle-game-ib4501lcf-ayushj16.vercel.app/
+
 ---
