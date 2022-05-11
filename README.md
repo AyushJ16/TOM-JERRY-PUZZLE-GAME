@@ -1,9 +1,7 @@
 # CATCH JERRY :
 ---
 ## Description:
-> It's a puzzle game with almost 25 images provided and you have to solve the puzzle with a minimum number of turns. Turns will be counted below. Swapping of the tiles is allowed. So! are you up for the challenge to catch Jerry helping poor Tom. The hint is also right in front of your eyes just need to look carefully. It's responsive.
-
->**It's responsive**.
+> It's a puzzle game with almost 25 images provided and you have to solve the puzzle with a minimum number of turns. Turns will be counted below. Swapping of the tiles is allowed. So! are you up for the challenge to catch Jerry helping poor Tom. The hint is also right in front of your eyes just need to look carefully.
 👍 
 ---
 ## Tech Stack Used :
